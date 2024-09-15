@@ -1,6 +1,6 @@
 const fs = require('fs');
-
 const input = fs.readFileSync('2501.in').toString().trim().split(' ');
+
 const N = parseInt(input[0],10);
 const K = parseInt(input[1], 10);
 
